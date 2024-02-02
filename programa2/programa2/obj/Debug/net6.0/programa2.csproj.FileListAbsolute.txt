@@ -1,0 +1,12 @@
+/Users/fenix/Projects/programa2/programa2/bin/Debug/net6.0/programa2.deps.json
+/Users/fenix/Projects/programa2/programa2/bin/Debug/net6.0/programa2.dll
+/Users/fenix/Projects/programa2/programa2/bin/Debug/net6.0/programa2.pdb
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/programa2.csproj.AssemblyReference.cache
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/programa2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/programa2.AssemblyInfoInputs.cache
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/programa2.AssemblyInfo.cs
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/programa2.csproj.CoreCompileInputs.cache
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/programa2.dll
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/refint/programa2.dll
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/programa2.pdb
+/Users/fenix/Projects/programa2/programa2/obj/Debug/net6.0/ref/programa2.dll
